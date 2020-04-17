@@ -1,0 +1,29 @@
+input.ng-touched.ng-invalid {
+    border-color: #dc3545;
+}
+
+input.ng-valid {
+    border-color: #28a745;
+}
+
+.green-icon {
+    border-color: #28a745;
+}
+
+.red-icon {
+    border-color: #dc3545;
+}
+
+.toast-continer>div {
+    opacity: 1;
+}
+
+.table tr:hover {
+    cursor: pointer;
+}
+
+.dt {
+    color: #682259;
+    font-family: monospace;
+    background: rgb(114, 107, 98);
+}
